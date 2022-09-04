@@ -7,7 +7,7 @@
 ## Introduction
 For my capstone project I developed a data pipeline that creates an analytics database for querying information about immigration into the U.S on a monthly basis. The analytics tables are hosted in a Redshift Database and the pipeline implementation was done using Apache Airflow.
 
-View [Notebook](https://github.com/kudeh/udacity-dend-capstone/blob/master/Capstone%20EDA.ipynb) for more details and project write up.
+View [Notebook](https://github.com/delfosseaurelien/capstone-udacity/blob/main/capstone_notebook.ipynb) for more details and project write up.
 
 ### Datasets
 The following datasets were used to create the analytics database:
